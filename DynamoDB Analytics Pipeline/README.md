@@ -19,3 +19,10 @@ This project enables seamless visualization of **DynamoDB data** in **Amazon Qui
 - **Amazon QuickSight**
 - **AWS Glue**
 - **Amazon S3**
+
+![Screenshot 2025-03-29 143622](https://github.com/user-attachments/assets/516fe95a-7822-49ee-98df-421323e569ad)
+![Screenshot 2025-03-29 143617](https://github.com/user-attachments/assets/e761c590-bb6f-4ecb-8d24-474dfcc51036)
+![Screenshot 2025-03-29 143612](https://github.com/user-attachments/assets/c6f522d7-7b70-4550-bae1-07e24bee14e7)
+![Screenshot 2025-03-29 141153](https://github.com/user-attachments/assets/e19ff0c7-28c8-4878-b6c6-d0d7b501efdb)
+
+
