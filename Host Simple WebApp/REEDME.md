@@ -59,5 +59,6 @@ This project showcases a highly available and scalable web application architect
     Monitors application metrics and system logs, and sends notifications or alerts through SNS for proactive incident response.
 
 
+![Screenshot from 2025-05-17 20-41-22](https://github.com/user-attachments/assets/7cdc4490-0039-42d6-8e60-6fc67258799e)
 
     
